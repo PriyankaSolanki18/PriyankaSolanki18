@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankasolanki18&label=Profile%20views&color=0e75b6&style=flat" alt="priyankasolanki18" /> </p>
 
-- 🌱 I’m currently learning **DSA, OOPS, DBMS, Networking, JavaScript, React**
+- 🌱 Skills -  **Java, C++, C, DBMS, Servlet, JSP, Spring, HTML, CSS**
 
 - 📫 How to reach me **priyankasolanki.1820@gmail.com**
 
