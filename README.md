@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanka Solanki</h1>
-<h3 align="center">Motivated engineering student with holistic knowledge of Computer Science Technologies</h3>
+<h3 align="center">Motivated Software Engineer with holistic knowledge of Computer Science Technologies</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankasolanki18&label=Profile%20views&color=0e75b6&style=flat" alt="priyankasolanki18" /> </p>
 
-- 🌱 Skills -  **Java, C++, C, DBMS, Servlet, JSP, Spring, HTML, CSS**
+- 🌱 Skills -  **Java, C++, C, DBMS, Servlet, JSP, Spring, HTML, CSS, Rest API, SQL**
 
 - 📫 How to reach me **priyankasolanki.1820@gmail.com**
 
