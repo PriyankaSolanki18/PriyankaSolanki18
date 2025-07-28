@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Solanki</h1>
-<h3 align="center">Motivated Software Engineer with holistic knowledge of Computer Science Technologies</h3>
+### Hi there 👋, I am Priyanka Solanki ### Passionate Software Engineer with a strong foundation in building scalable, efficient, and user-centric applications. I thrive on solving real-world problems through clean code, innovative thinking, and continuous learning. With a keen interest in system design, backend development, and emerging technologies, I am always exploring new ways to improve performance and deliver impactful solutions. Let's build something amazing together!
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 - 🌱 Skills -  **Java, C++, C, DBMS, Servlet, JSP, Spring, HTML, CSS, Rest API, SQL**
