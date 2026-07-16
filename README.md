@@ -8,8 +8,6 @@ Have strong foundation in building scalable, efficient, and user-centric applica
   
 - How to reach me **priyankasolanki.1820@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankasolanki18&" alt="priyankasolanki18" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/priyanka-solanki-92732420b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/priyanka-solanki-92732420b" height="30" width="40" /></a>
